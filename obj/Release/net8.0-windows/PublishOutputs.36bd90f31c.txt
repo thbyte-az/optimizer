@@ -1,0 +1,6 @@
+C:\Users\emile\Desktop\PC Optimizer.exe
+C:\Users\emile\Desktop\PC Optimizer.dll
+C:\Users\emile\Desktop\PC Optimizer.deps.json
+C:\Users\emile\Desktop\PC Optimizer.runtimeconfig.json
+C:\Users\emile\Desktop\PC Optimizer.dll.config
+C:\Users\emile\Desktop\PC Optimizer.pdb

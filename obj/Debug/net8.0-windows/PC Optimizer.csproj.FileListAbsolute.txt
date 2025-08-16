@@ -1,0 +1,20 @@
+D:\Workshop\Softwares\PC Optimizer\bin\Debug\net8.0-windows\PC Optimizer.exe
+D:\Workshop\Softwares\PC Optimizer\bin\Debug\net8.0-windows\PC Optimizer.deps.json
+D:\Workshop\Softwares\PC Optimizer\bin\Debug\net8.0-windows\PC Optimizer.runtimeconfig.json
+D:\Workshop\Softwares\PC Optimizer\bin\Debug\net8.0-windows\PC Optimizer.dll
+D:\Workshop\Softwares\PC Optimizer\bin\Debug\net8.0-windows\PC Optimizer.pdb
+D:\Workshop\Softwares\PC Optimizer\obj\Debug\net8.0-windows\PC_Optimizer.Form1.resources
+D:\Workshop\Softwares\PC Optimizer\obj\Debug\net8.0-windows\PC Optimizer.csproj.GenerateResource.cache
+D:\Workshop\Softwares\PC Optimizer\obj\Debug\net8.0-windows\PC Optimizer.GeneratedMSBuildEditorConfig.editorconfig
+D:\Workshop\Softwares\PC Optimizer\obj\Debug\net8.0-windows\PC Optimizer.AssemblyInfoInputs.cache
+D:\Workshop\Softwares\PC Optimizer\obj\Debug\net8.0-windows\PC Optimizer.AssemblyInfo.cs
+D:\Workshop\Softwares\PC Optimizer\obj\Debug\net8.0-windows\PC Optimizer.csproj.CoreCompileInputs.cache
+D:\Workshop\Softwares\PC Optimizer\obj\Debug\net8.0-windows\PC Optimizer.dll
+D:\Workshop\Softwares\PC Optimizer\obj\Debug\net8.0-windows\refint\PC Optimizer.dll
+D:\Workshop\Softwares\PC Optimizer\obj\Debug\net8.0-windows\PC Optimizer.pdb
+D:\Workshop\Softwares\PC Optimizer\obj\Debug\net8.0-windows\PC Optimizer.genruntimeconfig.cache
+D:\Workshop\Softwares\PC Optimizer\obj\Debug\net8.0-windows\ref\PC Optimizer.dll
+D:\Workshop\Softwares\PC Optimizer\obj\Debug\net8.0-windows\PC_Optimizer.Properties.Resources.resources
+D:\Workshop\Softwares\PC Optimizer\obj\Debug\net8.0-windows\PC_Optimizer.Form2.resources
+D:\Workshop\Softwares\PC Optimizer\obj\Debug\net8.0-windows\PC_Optimizer.Form3.resources
+D:\Workshop\Softwares\PC Optimizer\bin\Debug\net8.0-windows\PC Optimizer.dll.config
